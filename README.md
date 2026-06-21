@@ -1,4 +1,4 @@
 # yogeshkumar-student
 this is a new repo
 <br>
-author yogesh kumar
+author yogesh kumar (student)
